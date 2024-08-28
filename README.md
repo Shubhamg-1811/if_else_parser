@@ -1,7 +1,7 @@
 # If_else_parser
 
 ## Introduction
-**If_else_check** is a C++ project designed to validate whether an input string conforms to the syntax of an `if-else` conditional statement in C++. This tool is useful for programmers, students, and educators who want to ensure the correctness of `if-else` constructs in their code.
+**If_else_parser** is a C++ project designed to validate whether an input string confirms to the syntax of an `if-else` conditional statement in C++. This tool is useful for programmers, students, and educators who want to ensure the correctness of `if-else` constructs in their code.
 
 The project performs the following tasks:
 
@@ -90,7 +90,7 @@ if(condition){}else{}
 ```
 * OUTPUT
 
-![output](https://github.com/Vikas2171/If_else_parser/blob/main/image.png)
+![output](https://github.com/Shubhamg-1811/if_else_parser/blob/main/image.png)
 
 ## Acknowledgements
 We would like to express our sincere gratitude to Senior Professor Subhasis Bhattacharjee of IIT Jammu for his guidance and support throughout this course project. His expertise and insights have been invaluable in the development of this parser.
